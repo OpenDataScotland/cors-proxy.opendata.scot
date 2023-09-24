@@ -1,4 +1,4 @@
-name = "cors-proxy.opendata.scot"
+name = "cors-proxy"
 main = "src/index.js"
 compatibility_date = "2023-09-18"
 
